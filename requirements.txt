@@ -1,0 +1,13 @@
+# Web Framework
+streamlit
+
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning & Model Loading
+scikit-learn
+joblib
+
+# Optional: For better performance (recommended for PowerTransformer/Yeo-Johnson)
+scipy
